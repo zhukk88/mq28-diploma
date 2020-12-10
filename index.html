@@ -7,6 +7,50 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body> 	
+  <div class="popup hidden">
+  <div class="popup-container">
+    <form class="feedback">
+    <div class="feedback-box">
+      <div class="feedback-title">
+        <h2 class="yourfeedback-title">Ваш фидбек</h2>
+      </div>
+      <div class="select-form">
+        <label class="select-label">Как часто вы заходите на сайт?
+        <select class="select-box">
+          <option value="value"selected>Почти каждый день</option>
+          <option value="value"selected>Раз в несколько дней</option>
+          <option value="value"selected>Раз в несколько недель</option>
+          <option value="value"selected>Несколько раз в год</option>
+        </select>
+        </label>
+      </div>
+       <div class="checkbox-form">
+        <span class="checkbox-text">Вы подписаны на e-mail рассылку?</span>
+      <label class="checkbox-group">
+        <input type="radio" class="radio" name="radio-group" required>
+        <span class="radio-group-text">Да</span>
+      </label>
+       <label class="checkbox-group">
+        <input type="radio" class="radio" name="radio-group" required>
+        <span class="radio-group-text">Нет</span>
+      </label>
+    </div>
+     <div class="comment-form">
+      <label class="comment-box">
+        <span class="comment-title">Расскажите, какой контент вы хотели бы видеть на нашем сайте?</span>
+        <textarea class="field textarea" placeholder="Может, больше рецептов?" required></textarea>
+      </label>
+    </div>
+     <div class="confirm-form">
+      <button class="confirm-button">Отправить</button>
+    </div>
+    </div>
+  </form>
+  <button class="popup-close" type="button">
+    <span class="hidden-text">Закрыть окно</span>
+  </button>
+  </div>
+</div>
 	<header class="header">
   <div class="container">
     <img src="svg/noemi-logo.svg" class="header-logo" alt="Логотип Noemi">
@@ -538,3 +582,4 @@
     <a href="0" class="copyright-text">Copyright © 2009–2019 City Blog LLC.</a>
   </div>
 </footer> 
+  </body>
