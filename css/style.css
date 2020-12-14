@@ -1570,6 +1570,7 @@ a:hover {
   color: #ffffff;
   background-color: #000000;
   margin-right: 4px;
+  margin-bottom: 2px;
 }
 
 .trends-post1::after {
@@ -1585,7 +1586,8 @@ a:hover {
 }
 
 .trends-post2 {
-  width: calc(50% - 4px);
+  width: 50%;
+  height: 249px;
   background-image: url(../images/trend2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1593,8 +1595,8 @@ a:hover {
   position: relative;
   color: #ffffff;
   background-color: #000000;
-  margin-right: 4px;
-}
+  margin-bottom: 2px;
+  }
 
 .trends-post2::after {
   content: "";
@@ -1610,6 +1612,7 @@ a:hover {
 
 .trends-post3 {
   width: calc(50% - 4px);
+  height: 249px;
   background-image: url(../images/trend3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1633,6 +1636,7 @@ a:hover {
 
 .trends-post4 {
   width: 50%;
+  height: 249px;
   background-image: url(../images/trend4.jpg);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1654,18 +1658,14 @@ a:hover {
 }
 
 .trend-card-item {
-  width: 90%;
-  height: 45%;
+  width: 80%;
   border: 3px solid rgba(181, 159, 91, 1);
   position: absolute;
   z-index: 3;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   bottom: 5%;
   left: 4%;
-   }
-
+  padding: 15px;
+     }
 
 .trend-category-item:first-child {
   margin-left: 38px;
@@ -1705,7 +1705,7 @@ a:hover {
 .trend-info-title {
   color: #ffffff;
   font-family: Open Sans, sans-serif;
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 700;
   line-height: 24px;
   text-transform: uppercase;
@@ -1723,17 +1723,19 @@ a:hover {
   justify-content: center;
   }
 
+.post-list {
+  display: flex;
+  flex-direction: column;
+  width: 393px;
+}
+
 .last-post {
-  margin-top: 64px;
-  margin-left: 2.5%;
+  margin-top: 50px;
+  margin-left: 34px;
 }
 
 .last-post:nth-child(n + 2) {
   margin-top: 60px;
-}
-
-.post-preview {
-  background-color: #eff6f1;
 }
 
 .post-card {
@@ -1770,7 +1772,7 @@ ul {
 }
 
 h2 a {
-  font-size: 20px;
+  font-size: 17px;
   color: #0f0d0e;
   font-weight: 700;
   font-family: Open Sans, sans-serif;
@@ -1829,11 +1831,14 @@ aside {
 }
 
 .aside {
-  margin-left: 120px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 35px;
+  margin-right: 35px;
 }
 
 .sidebar-posts {
-  margin-top: 64px;
+  margin-top: 51px;
 }
 
 .sidebar-title {
@@ -2154,9 +2159,9 @@ aside {
        }
 
 .shop-image1 {
-  width: 300px;
-  height: 205px;
-  background-image: url(../images/shop-item-desk1.jpg);
+  width: 292px;
+  height: 227px;
+  background-image: url(../images/shop-item-tablet1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2167,9 +2172,9 @@ aside {
 }
 
 .shop-image2 {
-  width: 300px;
-  height: 205px;
-  background-image: url(../images/shop-item-desk2.jpg);
+  width: 292px;
+  height: 227px;
+  background-image: url(../images/shop-item-tablet2.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2180,9 +2185,9 @@ aside {
 }
 
 .shop-image3 {
-  width: 300px;
-  height: 205px;
-  background-image: url(../images/shop-item-desk3.jpg);
+  width: 292px;
+  height: 227px;
+  background-image: url(../images/shop-item-tablet3.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
