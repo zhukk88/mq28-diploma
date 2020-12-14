@@ -1726,13 +1726,12 @@ a:hover {
 .post-list {
   display: flex;
   flex-direction: column;
-  width: 393px;
+  width: 50%;
 }
 
 .last-post {
   margin-top: 50px;
-  margin-left: 34px;
-}
+  }
 
 .last-post:nth-child(n + 2) {
   margin-top: 60px;
@@ -1833,9 +1832,8 @@ aside {
 .aside {
   display: flex;
   flex-direction: column;
-  margin-left: 35px;
-  margin-right: 35px;
-}
+  width: 50%;
+  }
 
 .sidebar-posts {
   margin-top: 51px;
