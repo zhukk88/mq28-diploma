@@ -1406,7 +1406,7 @@ background-color: #f4f7f6;
   color: #ffffff;
   background-color: #000000;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: 50% bottom;
   background-size: cover;
   background-image: url("../images/banner-bg-tablet.jpg");
 }
@@ -1726,7 +1726,7 @@ a:hover {
 .post-list {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  
 }
 
 .last-post {
@@ -1737,7 +1737,13 @@ a:hover {
   margin-top: 60px;
 }
 
+.post-preview {
+ display: flex;
+}
+
 .post-card {
+  display: flex;
+  flex-direction: column;
   box-sizing: border-box;
 }
 
@@ -1832,7 +1838,7 @@ aside {
 .aside {
   display: flex;
   flex-direction: column;
-  width: 50%;
+  
   }
 
 .sidebar-posts {
@@ -2118,12 +2124,15 @@ aside {
 
 .shop {
   display: flex;
-  margin-top: 59px;
   justify-content: center;
   padding-left: 15px;
   padding-right: 15px;
   box-sizing: border-box;
        }
+
+.shop-box {
+  margin-top: 70px;
+}
 
 .shop-title {
   text-align: center;
@@ -2150,11 +2159,16 @@ aside {
   margin-right: auto;
 }
 
-.shop-images {
+.shop-products {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-       }
+  flex-wrap: wrap;
+ }
+
+.shop-product {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
 
 .shop-image1 {
   width: 292px;
@@ -2166,8 +2180,7 @@ aside {
   position: relative;
   color: #ffffff;
   background-color: #000000;
-  margin-right: 113px;
-}
+  }
 
 .shop-image2 {
   width: 292px;
@@ -2179,8 +2192,7 @@ aside {
   position: relative;
   color: #ffffff;
   background-color: #000000;
-  margin-right: 113px;
-}
+ }
 
 .shop-image3 {
   width: 292px;
@@ -2194,24 +2206,27 @@ aside {
   background-color: #000000;
   }
 
-.shop-products {
-display: flex;
-flex-wrap: wrap;
-margin-top: -32px;
-position: relative;
-z-index: 2;
 
-}
 
-.shop-product {
+.shop-info {
  width: 348px;
  height: 267px;
  box-sizing: border-box;
  border: 3px solid #b59f5b;
  padding-left: 24px;
  padding-right: 24px;
- margin-right: 65px;
+ position: relative;
+ z-index: 2;
+ top: -35px;
+ left: -25px;
+ flex-grow: 1;
 }
+
+.shop-content {
+display: flex;
+flex-wrap: wrap;
+}
+
 
 .shop-product:last-child {
   margin-right: 0px;
@@ -2242,7 +2257,7 @@ line-height: 22px;
 .product-footer {
 display: flex;
 align-items: flex-end;
-justify-content: space-between;
+justify-content: space-around;
 padding-top: 23px;
 }
 
