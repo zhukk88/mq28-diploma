@@ -54,10 +54,11 @@
 	<header class="header">
   <div class="container">
     <img src="svg/noemi-logo.svg" class="header-logo" alt="Логотип Noemi">
-    <nav class="menu js menu">
-      <button class="menu-button js-menu-button">
+    <div class="js-menu">
+      <button class="menu-button">
         <span class="menu-button-label">открыть меню</span>
       </button>
+    </div>
       <ul class="menu-list">
         <li class="menu-list-item">
           <a class="menu-link" href="#0">Главная</a>
@@ -78,10 +79,12 @@
           <a class="menu-link" href="#0">Контакты</a>
         </li>
       </ul>
-    </nav>
-    <h1 class="header-title">Блог о творчестве, спорте, и образе жизни</h1>
+    </div>
+    <div>
+        <h1 class="header-title">Блог о творчестве, спорте, и образе жизни</h1>
   </div>
 </header> 
+<section class="trends">
 <div class="trends-header">
 			<h2 class="trends-title">Сейчас в тренде</h2>
 		</div>
@@ -100,7 +103,7 @@
                      </ul>
 						</div> 					
 						<div class="trend-info">
-							<h2><a class="trend-info-title" href="0">Сейчас в тренде: Сад на подоконнике</a></h2>
+							<h3><a class="trend-info-title" href="0">Сейчас в тренде: Сад на подоконнике</a></h3>
 						</div>
 					</div>
 				</div>
@@ -116,7 +119,7 @@
                       </ul>
 						</div>
 						<div class="trend-info">
-							<h2><a class="trend-info-title" href="0">сыры на красивых картинках из интернета: какие они на вкус?</a></h2>
+							<h3><a class="trend-info-title" href="0">сыры на красивых картинках из интернета: какие они на вкус?</a></h3>
 						</div>
 					</div>
 				</div>
@@ -135,7 +138,7 @@
                      </ul>
 						</div>
 						<div class="trend-info">
-							<h2><a class="trend-info-title" href="0">СОБИРАЕМСЯ В ПЕРВЫЙ ПОХОД В ГОРЫ</a></h2>
+							<h3><a class="trend-info-title" href="0">СОБИРАЕМСЯ В ПЕРВЫЙ ПОХОД В ГОРЫ</a></h3>
 						</div>
 					</div>
 				</div>
@@ -154,13 +157,13 @@
                      </ul>
 						</div>
 						<div class="trend-info">
-							<h2><a class="trend-info-title" href="0">Сейчас в тренде: сКОЛЬКО ВИТАМИНА c В ЛИМОНАХ?</a></h2>
+							<h3><a class="trend-info-title" href="0">Сейчас в тренде: сКОЛЬКО ВИТАМИНА c В ЛИМОНАХ?</a></h3>
 						</div>
 					</div>
 				</div>
 				</article>
 			</div>
-			
+			</section>
 			 		<div class="page">
   <main class="post-list">
     <article class="last-post">
@@ -421,12 +424,10 @@
   </aside>
 </div>
 
-
   <div class="shop-box">
      <h2 class="shop-title">Наши изделия</h2>
   </div>
-  <div class="shop">
-<div class="shop-products">
+  <div class="shop-products">
   <div class="shop-product">
     <div class="shop-image1"></div>
     <article class="shop-info">
@@ -450,9 +451,9 @@
                 <span class="product-rub">&#8381</span>
               </span>
             </div>
-            <button class="product-button-link product-button" type="button">В магазин</button>
-            </footer>
+            <a href="0" class="product-button-link product-button">В магазин</a>
             </div>
+            </footer>
             </article>
          </div>
   <div class="shop-product">
@@ -474,7 +475,7 @@
                 <span class="product-rub">&#8381</span>
               </span>
             </div>
-            <button class="product-button-link product-button" type="button">В магазин</button>
+            <a href="0" class="product-button-link product-button">В магазин</a>
           </footer>
           </div>
           </article>
@@ -502,12 +503,11 @@
                 <span class="product-rub">&#8381</span>
               </span>
             </div>
-            <button class="product-button-link product-button" type="button">В магазин</button>
+           <a href="0" class="product-button-link product-button">В магазин</a>
           </footer>
           </div>
           </article>
      </div>
-</div>
   </div>
 							
 <footer class="footer">
