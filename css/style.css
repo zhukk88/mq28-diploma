@@ -1161,7 +1161,7 @@ padding-top: 15px;
 @media (min-width: 641px) and (max-width: 1200px) {
 
 .hidden {
- display: none!important;
+ display: none!important
 }
 
 .popup {
@@ -1702,6 +1702,7 @@ a:hover {
 .post-list {
   display: flex;
   flex-direction: column;
+  width: 50%;
   max-width: 393px;
   margin-right: 35px;
   }
@@ -1731,7 +1732,7 @@ a:hover {
 
 .post-card::after {
  content: "";
- width: 393px;
+ max-width: 393px;
  height: 4px;
  background-color: #eeeeee;
  display: block;
@@ -2362,7 +2363,7 @@ padding-top: 15px;
 @media (max-width: 641px) {
 
 .hidden {
- display: none!important;
+ display: none!important
 }
 
 .popup {
@@ -2412,7 +2413,7 @@ padding-top: 15px;
 
 .popup-container {
   box-sizing: border-box;
-  width: 391px;
+  max-width: 332px;
   background-color: #ffffff;
   position: relative;
   z-index: 5;
@@ -2454,7 +2455,7 @@ padding-top: 15px;
 
 .select-box {
  box-sizing: border-box;
- width: 331px;
+ width: 281px;
  height: 49px;
  margin-top: 9px;
  margin-bottom: 33px;
@@ -2527,7 +2528,7 @@ margin-bottom: 12px;
 
 .comment-title {
  display: block;
- width: 315px;
+ width: 281px;
  color: #000000;
  font-family: Open Sans, sans-serif;
  font-size: 13px;
@@ -2535,8 +2536,8 @@ margin-bottom: 12px;
  }
 
 .textarea {
- min-width: 331px;
- max-width: 331px;
+ min-width: 281px;
+ max-width: 281px;
  min-height: 132px;
  max-height: 182px;
  box-sizing: border-box;
@@ -2560,7 +2561,7 @@ background-color: #f4f7f6;
 }
 
 .confirm-button {
- width: 331px;
+ width: 281px;
  height: 49px;
  background-color: #b59f5b;
  color: #ffffff;
@@ -2581,8 +2582,6 @@ background-color: #f4f7f6;
   height: 640px;
   box-sizing: border-box;
   position: relative;
-  padding-top: 29px;
-  padding-bottom: 145px;
   color: #ffffff;
   background-color: #000000;
   background-repeat: no-repeat;
@@ -2610,17 +2609,17 @@ background-color: #f4f7f6;
 
 .header-logo {
  max-width: 269px;
- padding-top: 190px;
- padding-bottom: 43px;
- padding-left: 46px;
+ margin-top: 210px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 43px;
 }
 
 .js-menu {
-  position: relative;
-  z-index: 50;
   display: flex;
   flex-direction: row-reverse;
-  align-items: flex-start;
+  padding-top: 30px;
+  padding-right: 15px;
   }
 
 .menu-button {
@@ -3069,23 +3068,20 @@ h3 a:hover {
 }
 
 .search-bar {
-  max-width: 331px;
+  width: 100%;
 }
 
 .search {
   display: flex;
   margin-top: 60px;
-  max-width: 331px;
-}
+  }
 
 .search-item {
-  max-width: 283px;
-  flex-grow: 1;
+    flex-grow: 1;
 }
 
 .search-field {
   box-sizing: border-box;
-  width: 283px;
   height: 49px;
   opacity: 0.5;
   background-color: #f4f7f6;
@@ -3103,7 +3099,6 @@ h3 a:hover {
 }
 
 .search-field:focus {
-  width: 222px;
   height: 48px;
   background-color: #f4f7f6;
   border: 1px solid #b59f5b;
@@ -3164,11 +3159,9 @@ h3 a:hover {
 .subscribe {
   display: flex;
   flex-direction: column;
-  max-width: 329px;
-}
+  }
 
 .subscribe-item {
-  max-width: 329px;
   flex-grow: 1;
 }
 
@@ -3179,7 +3172,6 @@ h3 a:hover {
   font-size: 13px;
   font-weight: 400;
   box-sizing: border-box;
-  width: 271px;
   height: 49px;
   background-color: #f4f7f6;
   border: 0;
@@ -3197,7 +3189,6 @@ h3 a:hover {
 }
 
 .subscribe-button {
-  width: 271px;
   height: 49px;
   background-color: #b59f5b;
   border: 0;
@@ -3213,7 +3204,6 @@ h3 a:hover {
 }
 
 .subscribe-button:hover {
-  width: 271px;
   height: 49px;
   background-color: #323232;
 }
@@ -3225,7 +3215,7 @@ h3 a:hover {
 .tags-list {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .tag {
