@@ -88,7 +88,7 @@
 
 .yourfeedback-title {
  color: #0f0d0e;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 20px;
  font-weight: 700;
  line-height: 29.15px;
@@ -111,7 +111,7 @@
 
 .select-label {
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
 }
@@ -124,7 +124,7 @@
  margin-bottom: 33px;
  border: none;
  color: rgba(0, 0, 0, 0.54);
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  padding-left: 19px;
@@ -146,7 +146,7 @@ background-color: #f4f7f6;
 .checkbox-text {
 display: block;
 color: #000000;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 13px;
 font-weight: 400;
 margin-bottom: 12px;
@@ -156,7 +156,7 @@ margin-bottom: 12px;
   display: inline-block;
   font-size: 13px;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 35px;
 }
 
@@ -193,7 +193,7 @@ margin-bottom: 12px;
  display: block;
  width: 315px;
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  }
@@ -207,7 +207,7 @@ margin-bottom: 12px;
  background-color: #f4f7f6;
  padding-top: 21px;
  padding-left: 21px;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  color: #000000;
  opacity: 0.54;
  border: none;
@@ -228,7 +228,7 @@ background-color: #f4f7f6;
  height: 49px;
  background-color: #b59f5b;
  color: #ffffff;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 14px;
  font-weight: 700;
  border: none;
@@ -304,7 +304,7 @@ a:hover {
 .menu-list {
   display: flex;
   font-size: 13px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   list-style: none;
@@ -326,7 +326,7 @@ a:hover {
   line-height: 1.6;
   color: #ffffff;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
   text-align: center;
   margin-right: auto;
@@ -339,7 +339,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-weight: 700;
   text-transform: uppercase; 
   margin-top: 59px;
@@ -483,7 +483,7 @@ a:hover {
 
 .trend-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -505,7 +505,7 @@ a:hover {
 
 .trend-info-title {
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 20px;
   font-weight: 700;
   line-height: 24px;
@@ -552,7 +552,7 @@ ul {
 
 .post-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -579,7 +579,7 @@ h2 a {
   font-size: 20px;
   color: #0f0d0e;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -601,7 +601,7 @@ h2 a:hover {
   line-height: 40px;
   color: #888888;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .post-author {
@@ -609,7 +609,7 @@ h2 a:hover {
   line-height: 40px;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 13px;
 }
 
@@ -618,7 +618,7 @@ h2 a:hover {
   line-height: 1.4;
   color: #0f0d0e;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-top: 50px;
 }
 
@@ -644,7 +644,7 @@ aside {
 
 .sidebar-title {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-weight: 700;
   line-height: 2;
   color: #0f0d0e;
@@ -687,7 +687,7 @@ aside {
   font-size: 12px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 9px;
 }
 
@@ -696,7 +696,7 @@ aside {
   line-height: 1.2;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -705,7 +705,7 @@ aside {
   line-height: 1.2;
   color: #b59f5b;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .search {
@@ -723,7 +723,7 @@ aside {
   font-size: 13px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 18px;
   padding-top: 18px;
   padding-bottom: 20px;
@@ -769,7 +769,7 @@ aside {
 
 .asidebar-title {
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 2;
@@ -794,7 +794,7 @@ aside {
 .subscribe-field {
   opacity: 0.5;
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 13px;
   font-weight: 400;
   box-sizing: border-box;
@@ -821,7 +821,7 @@ aside {
   background-color: #b59f5b;
   border: 0;
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 40px;
@@ -851,7 +851,7 @@ aside {
   display: inline-block;
   color: #0f0d0e;
   border: 3px solid #eeeeee;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -894,7 +894,7 @@ aside {
 
 .categorie {
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   font-style: normal;
@@ -910,7 +910,7 @@ aside {
   width: 7px;
   height: 10px;
   color: #b59f5b;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -936,7 +936,7 @@ aside {
 .shop-title {
   text-align: center;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 20px;
   line-height: 29.15px;
   font-weight: 700;
@@ -994,7 +994,7 @@ aside {
 
 .product-title {
 color: #0f0d0e;
-font-family: "Open Sans";
+font-family: "OpenSans";
 font-size: 20px;
 font-weight: 700;
 font-style: normal;
@@ -1004,7 +1004,7 @@ text-transform: uppercase;
 
 .product-description {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 15px;
 font-weight: 400;
 line-height: 22px;
@@ -1013,11 +1013,19 @@ line-height: 22px;
 .hyperlink {
   color: #b59f5b;
   }
+.hyperlink:hover {
+  color: #b59f5b;
+}
 
 .hyperlink-underline {
   color: #b59f5b;
+}
+
+.hyperlink-underline:hover {
+  color: #b59f5b;
   text-decoration: underline;
 }
+
 
 .product-footer {
 display: flex;
@@ -1029,14 +1037,14 @@ padding: 23px;
 .product-price {
 display: flex;
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 20px;
 font-weight: 700;
 }
 
 .product-price-old {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-decoration: line-through;
@@ -1058,7 +1066,7 @@ background-color: #323232;
 
 .product-button-link {
 color: #ffffff;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-transform: uppercase;
@@ -1145,7 +1153,7 @@ padding-top: 15px;
 
 .copyright-text {
   color: #999999;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -1188,10 +1196,10 @@ padding-top: 15px;
 }
 
 .popup-close {
- width: 19px;
- height: 19px;
+ width: 28px;
+ height: 28px;
  position: absolute;
- top: -30px;
+ top: -40px;
  right: 0;
  background-color: #ffffff;
  background-image: url("../svg/form-x.svg");
@@ -1223,7 +1231,7 @@ padding-top: 15px;
 
 .yourfeedback-title {
  color: #0f0d0e;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 20px;
  font-weight: 700;
  line-height: 29.15px;
@@ -1246,7 +1254,7 @@ padding-top: 15px;
 
 .select-label {
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
 }
@@ -1259,7 +1267,7 @@ padding-top: 15px;
  margin-bottom: 33px;
  border: none;
  color: rgba(0, 0, 0, 0.54);
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  padding-left: 19px;
@@ -1281,7 +1289,7 @@ background-color: #f4f7f6;
 .checkbox-text {
 display: block;
 color: #000000;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 13px;
 font-weight: 400;
 margin-bottom: 12px;
@@ -1291,7 +1299,7 @@ margin-bottom: 12px;
   display: inline-block;
   font-size: 13px;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 35px;
 }
 
@@ -1299,11 +1307,11 @@ margin-bottom: 12px;
   content: "";
   display: inline-block;
   vertical-align: middle;
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
   background-image: url("../svg/form-empty-circle.svg");
   background-repeat: no-repeat;
-  background-size: 16px;
+  background-size: 24px;
   background-position: center center;
   cursor: pointer;
   margin-right: 5px;
@@ -1328,7 +1336,7 @@ margin-bottom: 12px;
  display: block;
  width: 315px;
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  }
@@ -1342,7 +1350,7 @@ margin-bottom: 12px;
  background-color: #f4f7f6;
  padding-top: 21px;
  padding-left: 21px;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  color: #000000;
  opacity: 0.54;
  border: none;
@@ -1363,7 +1371,7 @@ background-color: #f4f7f6;
  height: 49px;
  background-color: #b59f5b;
  color: #ffffff;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 14px;
  font-weight: 700;
  border: none;
@@ -1496,7 +1504,7 @@ a:hover {
   color: #ffffff;
   font-size: 40px;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
   text-align: center;
   margin-right: auto;
@@ -1509,7 +1517,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   line-height: 29.15px;
   font-weight: 700;
   text-transform: uppercase; 
@@ -1658,7 +1666,7 @@ a:hover {
 
 .trend-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -1680,7 +1688,7 @@ a:hover {
 
 .trend-info-title {
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 17px;
   font-weight: 700;
   line-height: 24px;
@@ -1739,8 +1747,8 @@ a:hover {
  margin-top: 18px;
 }
 
-.post-card:last-child::after {
-  content: "";
+.post-card:last-child:after {
+  
 }
 
 ul {
@@ -1749,7 +1757,7 @@ ul {
 
 .post-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -1776,7 +1784,7 @@ h2 a {
   font-size: 17px;
   color: #0f0d0e;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -1798,7 +1806,7 @@ h2 a:hover {
   line-height: 40px;
   color: #888888;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .post-author {
@@ -1806,7 +1814,7 @@ h2 a:hover {
   line-height: 40px;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 13px;
 }
 
@@ -1815,7 +1823,7 @@ h2 a:hover {
   line-height: 1.4;
   color: #0f0d0e;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-top: 33px;
 }
 
@@ -1843,7 +1851,7 @@ aside {
 
 .sidebar-title {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-weight: 700;
   line-height: 2;
   color: #0f0d0e;
@@ -1886,7 +1894,7 @@ aside {
   font-size: 12px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 9px;
 }
 
@@ -1895,7 +1903,7 @@ aside {
   line-height: 1.2;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -1904,7 +1912,7 @@ aside {
   line-height: 1.2;
   color: #b59f5b;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .search {
@@ -1922,7 +1930,7 @@ aside {
   font-size: 13px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 18px;
   padding-top: 18px;
   padding-bottom: 20px;
@@ -1968,7 +1976,7 @@ aside {
 
 .asidebar-title {
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 2;
@@ -1993,7 +2001,7 @@ aside {
 .subscribe-field {
   opacity: 0.5;
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 13px;
   font-weight: 400;
   box-sizing: border-box;
@@ -2020,7 +2028,7 @@ aside {
   background-color: #b59f5b;
   border: 0;
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 40px;
@@ -2050,7 +2058,7 @@ aside {
   display: inline-block;
   color: #0f0d0e;
   border: 3px solid #eeeeee;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -2093,7 +2101,7 @@ aside {
 
 .categorie {
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   font-style: normal;
@@ -2109,7 +2117,7 @@ aside {
   width: 7px;
   height: 10px;
   color: #b59f5b;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -2127,7 +2135,7 @@ aside {
   margin-left: auto;
   margin-right: auto;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 20px;
   line-height: 29.15px;
   font-weight: 700;
@@ -2197,7 +2205,7 @@ aside {
 
 .product-title {
 color: #0f0d0e;
-font-family: "Open Sans";
+font-family: "OpenSans";
 font-size: 17px;
 font-weight: 700;
 font-style: normal;
@@ -2207,7 +2215,7 @@ text-transform: uppercase;
 
 .product-description {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 15px;
 font-weight: 400;
 line-height: 22px;
@@ -2216,11 +2224,19 @@ line-height: 22px;
 .hyperlink {
   color: #b59f5b;
   }
+.hyperlink:hover {
+  color: #b59f5b;
+}
 
 .hyperlink-underline {
   color: #b59f5b;
+}
+
+.hyperlink-underline:hover {
+  color: #b59f5b;
   text-decoration: underline;
 }
+
 
 .product-footer {
 display: flex;
@@ -2232,14 +2248,14 @@ padding-top: 23px;
 .product-price {
 display: flex;
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 20px;
 font-weight: 700;
 }
 
 .product-price-old {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-decoration: line-through;
@@ -2261,7 +2277,7 @@ background-color: #323232;
 
 .product-button-link {
 color: #ffffff;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-transform: uppercase;
@@ -2347,7 +2363,7 @@ padding-top: 15px;
 
 .copyright-text {
   color: #999999;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -2390,10 +2406,10 @@ padding-top: 15px;
 }
 
 .popup-close {
- width: 19px;
- height: 19px;
+ width: 28px;
+ height: 28px;
  position: absolute;
- top: -30px;
+ top: -40px;
  right: 0;
  background-color: #ffffff;
  background-image: url("../svg/form-x.svg");
@@ -2425,7 +2441,7 @@ padding-top: 15px;
 
 .yourfeedback-title {
  color: #0f0d0e;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 20px;
  font-weight: 700;
  line-height: 29.15px;
@@ -2448,7 +2464,7 @@ padding-top: 15px;
 
 .select-label {
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
 }
@@ -2461,7 +2477,7 @@ padding-top: 15px;
  margin-bottom: 33px;
  border: none;
  color: rgba(0, 0, 0, 0.54);
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  padding-left: 19px;
@@ -2483,7 +2499,7 @@ background-color: #f4f7f6;
 .checkbox-text {
 display: block;
 color: #000000;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 13px;
 font-weight: 400;
 margin-bottom: 12px;
@@ -2493,7 +2509,7 @@ margin-bottom: 12px;
   display: inline-block;
   font-size: 13px;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 35px;
 }
 
@@ -2501,11 +2517,11 @@ margin-bottom: 12px;
   content: "";
   display: inline-block;
   vertical-align: middle;
-  width: 16px;
-  height: 16px;
+  width: 24px;
+  height: 24px;
   background-image: url("../svg/form-empty-circle.svg");
   background-repeat: no-repeat;
-  background-size: 16px;
+  background-size: 24px;
   background-position: center center;
   cursor: pointer;
   margin-right: 5px;
@@ -2530,7 +2546,7 @@ margin-bottom: 12px;
  display: block;
  width: 281px;
  color: #000000;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 13px;
  font-weight: 400;
  }
@@ -2544,7 +2560,7 @@ margin-bottom: 12px;
  background-color: #f4f7f6;
  padding-top: 21px;
  padding-left: 21px;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  color: #000000;
  opacity: 0.54;
  border: none;
@@ -2565,7 +2581,7 @@ background-color: #f4f7f6;
  height: 49px;
  background-color: #b59f5b;
  color: #ffffff;
- font-family: Open Sans, sans-serif;
+ font-family: OpenSans, sans-serif;
  font-size: 14px;
  font-weight: 700;
  border: none;
@@ -2693,7 +2709,7 @@ a:hover {
   color: #ffffff;
   font-size: 26px;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
   text-align: center;
   margin-right: 40px;
@@ -2705,7 +2721,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   line-height: 29.15px;
   font-size: 16px;
   font-weight: 700;
@@ -2845,7 +2861,7 @@ a:hover {
 
 .trend-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -2867,7 +2883,7 @@ a:hover {
 
 .trend-info-title {
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 24px;
@@ -2924,7 +2940,7 @@ ul {
 
 .post-category {
   font-size: 14px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   color: #b59f5b;
   font-weight: 700;
   text-transform: uppercase;
@@ -2951,7 +2967,7 @@ h2 a {
   font-size: 16px;
   color: #0f0d0e;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -2973,7 +2989,7 @@ h2 a:hover {
   line-height: 40px;
   color: #888888;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .post-author {
@@ -2981,7 +2997,7 @@ h2 a:hover {
   line-height: 40px;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 13px;
 }
 
@@ -2990,7 +3006,7 @@ h2 a:hover {
   line-height: 1.4;
   color: #0f0d0e;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-top: 19px;
 }
 
@@ -3008,7 +3024,7 @@ h3 a:hover {
 
 .sidebar-title {
   font-size: 16px;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-weight: 700;
   line-height: 2;
   color: #0f0d0e;
@@ -3046,7 +3062,7 @@ h3 a:hover {
   font-size: 12px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   margin-bottom: 9px;
 }
 
@@ -3055,7 +3071,7 @@ h3 a:hover {
   line-height: 1.2;
   color: #000000;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   text-transform: uppercase;
 }
 
@@ -3064,7 +3080,7 @@ h3 a:hover {
   line-height: 1.2;
   color: #b59f5b;
   font-weight: 700;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
 }
 
 .search-bar {
@@ -3089,7 +3105,7 @@ h3 a:hover {
   font-size: 13px;
   color: #000000;
   font-weight: 400;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   padding-left: 18px;
   padding-top: 18px;
   padding-bottom: 20px;
@@ -3134,7 +3150,7 @@ h3 a:hover {
 
 .asidebar-title {
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 16px;
   font-weight: 700;
   line-height: 2;
@@ -3168,7 +3184,7 @@ h3 a:hover {
 .subscribe-field {
   opacity: 0.5;
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 13px;
   font-weight: 400;
   box-sizing: border-box;
@@ -3193,7 +3209,7 @@ h3 a:hover {
   background-color: #b59f5b;
   border: 0;
   color: #ffffff;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   line-height: 40px;
@@ -3222,7 +3238,7 @@ h3 a:hover {
   display: inline-block;
   color: #0f0d0e;
   border: 3px solid #eeeeee;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -3255,7 +3271,7 @@ h3 a:hover {
 
 .categorie {
   color: #000000;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 14px;
   font-weight: 700;
   font-style: normal;
@@ -3271,7 +3287,7 @@ h3 a:hover {
   width: 7px;
   height: 10px;
   color: #b59f5b;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -3289,7 +3305,7 @@ h3 a:hover {
   margin-left: auto;
   margin-right: auto;
   color: #0f0d0e;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 16px;
   line-height: 29.15px;
   font-weight: 700;
@@ -3347,7 +3363,7 @@ h3 a:hover {
 
 .product-title {
 color: #0f0d0e;
-font-family: "Open Sans";
+font-family: "OpenSans";
 font-size: 17px;
 font-weight: 700;
 font-style: normal;
@@ -3357,7 +3373,7 @@ text-transform: uppercase;
 
 .product-description {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 15px;
 font-weight: 400;
 line-height: 22px;
@@ -3366,8 +3382,15 @@ line-height: 22px;
 .hyperlink {
   color: #b59f5b;
   }
+.hyperlink:hover {
+  color: #b59f5b;
+}
 
 .hyperlink-underline {
+  color: #b59f5b;
+}
+
+.hyperlink-underline:hover {
   color: #b59f5b;
   text-decoration: underline;
 }
@@ -3382,14 +3405,14 @@ padding-top: 23px;
 .product-price {
 display: flex;
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 20px;
 font-weight: 700;
 }
 
 .product-price-old {
 color: #0f0d0e;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-decoration: line-through;
@@ -3411,7 +3434,7 @@ background-color: #323232;
 
 .product-button-link {
 color: #ffffff;
-font-family: Open Sans, sans-serif;
+font-family: OpenSans, sans-serif;
 font-size: 14px;
 font-weight: 700;
 text-transform: uppercase;
@@ -3498,7 +3521,7 @@ padding-top: 15px;
 
 .copyright-text {
   color: #999999;
-  font-family: Open Sans, sans-serif;
+  font-family: OpenSans, sans-serif;
   font-size: 12px;
   font-weight: 700;
   font-style: normal;
@@ -3509,4 +3532,127 @@ padding-top: 15px;
   color: #999999;
 }
 
+}
+
+@media (max-height: 641px) and (orientation: landscape) {
+
+  .trends-posts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  box-sizing: border-box;
+          }
+
+.trends-post1 {
+  width: calc(50% - 4px);
+  height: 249px;
+  background-image: url(../images/trend1.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: #ffffff;
+  background-color: #000000;
+  margin-right: 4px;
+  margin-bottom: 2px;
+}
+
+.trends-post1::after {
+  content: "";
+  background-color: #000000;
+  opacity: 0.6;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.trends-post2 {
+  width: 50%;
+  height: 249px;
+  background-image: url(../images/trend2.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: #ffffff;
+  background-color: #000000;
+  margin-bottom: 2px;
+  }
+
+.trends-post2::after {
+  content: "";
+  background-color: #000000;
+  opacity: 0.6;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.trends-post3 {
+  width: calc(50% - 4px);
+  height: 249px;
+  background-image: url(../images/trend3.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: #ffffff;
+  background-color: #000000;
+  margin-right: 4px;
+}
+
+.trends-post3::after {
+  content: "";
+  background-color: #000000;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.trends-post4 {
+  width: 50%;
+  height: 249px;
+  background-image: url(../images/trend4.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  color: #ffffff;
+  background-color: #000000;
+}
+
+.trends-post4::after {
+  content: "";
+  background-color: #000000;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.trend-card-item {
+  width: 55%;
+  border: 3px solid rgba(181, 159, 91, 1);
+  position: absolute;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  bottom: 5%;
+  left: 6%;
+  padding: 30px;
+   }
+
+ 
 }
