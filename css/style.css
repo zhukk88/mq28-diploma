@@ -1747,8 +1747,8 @@ a:hover {
  margin-top: 18px;
 }
 
-.post-card:last-child:after {
-  
+.last-post:last-child .post-card:after {
+  content: none;
 }
 
 ul {
